@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image:url(./resources/images/download.jpg);
+    background-image:url(git ./resources/images/download.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
