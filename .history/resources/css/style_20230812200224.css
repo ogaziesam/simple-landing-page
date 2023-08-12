@@ -87,6 +87,4 @@ button:hover{
     position: sticky;
     display: flex;
     align-items: center;
-    justify-content:end;
-    color: purple;
 }

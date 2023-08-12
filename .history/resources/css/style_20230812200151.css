@@ -85,8 +85,5 @@ button:hover{
 
 .sticky-footer{
     position: sticky;
-    display: flex;
-    align-items: center;
-    justify-content:end;
-    color: purple;
+    
 }

@@ -83,10 +83,3 @@ button:hover{
     background-color: skyblue;
 }
 
-.sticky-footer{
-    position: sticky;
-    display: flex;
-    align-items: center;
-    justify-content:end;
-    color: purple;
-}
