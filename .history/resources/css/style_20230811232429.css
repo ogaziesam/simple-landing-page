@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    width:10px;
+    height: 30px;
+}
+
+body {
+    background-image: url(/resources/images/321105434_883868013027395_2576485099436938498_n.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav {
+    display:flex;
+    align-items: center;
+    justify
+}
