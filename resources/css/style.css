@@ -49,14 +49,12 @@ main {
     justify-content:center;
     height: 86vh;
     width: 500px;
-    
 }
 
 .description {
     max-width: 400px;
     font-size: 20px;
     margin-top: 15px;
-
 }
 
 h1 {
